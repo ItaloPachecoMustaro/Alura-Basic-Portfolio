@@ -39,3 +39,4 @@ Este é um projeto web que eu criei como parte do curso "HTML e CSS para Projeto
 ## 💻Demonstração
 
 - [Projeto Vercel](https://alura-basic-portfolio.vercel.app/)
+- [Figma](https://www.figma.com/file/YLL3YYnEeE3uxeW7hbp23r/Alura-Portifolio-HTML-e-CSS?type=design&node-id=0%3A1&mode=design&t=ta5Fs7BboKGciX0E-1)

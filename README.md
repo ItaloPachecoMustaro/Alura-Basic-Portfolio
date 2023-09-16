@@ -38,4 +38,4 @@ Este é um projeto web que eu criei como parte do curso "HTML e CSS para Projeto
 
 ## 💻Demonstração
 
-- [Projeto Vercel](https://alura-portfolio-project.vercel.app/)
+- [Projeto Vercel](https://alura-basic-portfolio.vercel.app/)

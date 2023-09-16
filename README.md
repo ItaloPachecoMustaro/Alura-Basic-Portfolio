@@ -3,7 +3,7 @@
 </div>
 
 <hr>
-<a href="https://github.com/ItaloPachecoMustaro/Alura-Portfolio-Project/blob/main/README-EN.md">Don't speak Portuguese? Click here to see the English version.</a>
+<a href="https://github.com/ItaloPachecoMustaro/Alura-Basic-Portfolio/blob/main/README-EN.md">Don't speak Portuguese? Click here to see the English version.</a>
 <hr>
 
 ## 📚Descrição

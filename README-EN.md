@@ -3,12 +3,12 @@
 </div>
 
 <hr>
-<a href="https://github.com/ItaloPachecoMustaro/Alura-Basic-Portfolio/blob/main/README.md">Não fala inglês? Clique aqui para ver a versão em português.</a>
+<a href="https://github.com/ItaloPachecoMustaro/Alura-Basic-Portfolio/blob/main/README.md">Não fala Inglês? Clique aqui para ver a versão em português.</a>
 <hr>
 
 ## 📚Description
 
-This is a web project that I created as part of the "HTML and CSS for Web Projects from Scratch" course. During the course, I learned the essential fundamentals of web development, starting from scratch.
+This is a web project that I created as part of the "HTML and CSS for Web Projects from Scratch" course by Alura. During the course, I learned the essential fundamentals of web development, starting from scratch.
 
 <br>
 

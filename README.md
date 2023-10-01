@@ -8,7 +8,7 @@
 
 ## 📚Descrição
 
-Este é um projeto web que eu criei como parte do curso "HTML e CSS para Projetos Web a Partir do Zero". Durante o curso, aprendi os fundamentos essenciais do desenvolvimento web, começando do zero.
+Este é um projeto web que eu criei como parte do curso "HTML e CSS para Projetos Web a Partir do Zero" da Alura. Durante o curso, aprendi os fundamentos essenciais do desenvolvimento web, começando do zero.
 
 <br>
 

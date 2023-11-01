@@ -23,6 +23,8 @@ This is a web project that I created as part of the "HTML and CSS for Web Projec
 - [Mônica Mazzochi Hillman](https://github.com/MonicaHillman)
 - [Guilherme Lima](https://www.linkedin.com/in/guilherme-lima-458925178)
 - [Rafaella Ballerini](https://github.com/rafaballerini)
+- [Vanessa Me Tonini](https://github.com/vanessametonini)
+  
 
 <br>
 

@@ -1,5 +1,5 @@
 <div align="center">
-<h1>Bem-vindo ao meu Projeto Web: HTML e CSS do Zero</h1> 
+<h1>Bem-vindo ao meu Projeto Web: HTML e CSS: ambientes de desenvolvimento, estrutura de arquivos e tags</h1> 
 </div>
 
 <hr>
@@ -8,7 +8,7 @@
 
 ## 📚Descrição
 
-Este é um projeto web que eu criei como parte do curso "HTML e CSS para Projetos Web a Partir do Zero" da Alura. Durante o curso, aprendi os fundamentos essenciais do desenvolvimento web, começando do zero.
+Como parte do curso 'HTML e CSS: ambientes de desenvolvimento, estrutura de arquivos e tags' da Alura, desenvolvi um modelo básico de portfólio. Ao longo do curso, adquiri competências para construir um site utilizando HTML e CSS, bem como para identificar elementos e estilos a partir de designs fornecidos pelo Figma.
 
 <br>
 
@@ -20,10 +20,9 @@ Este é um projeto web que eu criei como parte do curso "HTML e CSS para Projeto
 
 ## 👨‍🏫Tutores do Curso
 
-- [Mônica Mazzochi Hillman](https://github.com/MonicaHillman)
 - [Guilherme Lima](https://www.linkedin.com/in/guilherme-lima-458925178)
 - [Rafaella Ballerini](https://github.com/rafaballerini)
-- [Vanessa Me Tonini](https://github.com/vanessametonini)
+
   
 <br>
 

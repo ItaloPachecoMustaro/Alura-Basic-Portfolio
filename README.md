@@ -23,7 +23,8 @@ Este é um projeto web que eu criei como parte do curso "HTML e CSS para Projeto
 - [Mônica Mazzochi Hillman](https://github.com/MonicaHillman)
 - [Guilherme Lima](https://www.linkedin.com/in/guilherme-lima-458925178)
 - [Rafaella Ballerini](https://github.com/rafaballerini)
-
+- [Vanessa Me Tonini](https://github.com/vanessametonini)
+  
 <br>
 
 ## 🔧Ferramentas Utilizadas
